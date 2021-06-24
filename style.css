@@ -798,8 +798,7 @@ hr{
 .footer{
     background: #423633;
     width: 500px;
-    height: 100%;
-    position: fixed;
+    height: 400vmax;
     text-align: center;
     margin-top: 40px;
     margin-left: auto;
